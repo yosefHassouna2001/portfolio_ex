@@ -317,6 +317,7 @@ header .container .icon-bar {
     display: flex;
     align-items: center;
     justify-content: center !important;
+    gap: 30px;
 }
 
 .percent .container .box {
