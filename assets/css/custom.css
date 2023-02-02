@@ -257,7 +257,7 @@ header .container .icon-bar {
 /* about section */
 
 .about .container .imgebox {
-    width: 50%;
+    width: 40%;
     height: 75vh;
     display: flex;
 }
@@ -269,6 +269,7 @@ header .container .icon-bar {
 
 .about .container .content {
     padding: 5px 0px 5px 60px;
+    width: 60%;
 }
 
 .about .container .content h1 {
